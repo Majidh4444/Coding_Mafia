@@ -24,3 +24,7 @@
  - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
  - [Reverse String](https://leetcode.com/problems/reverse-string/)
  - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+ - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+ - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+ - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+ - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
