@@ -28,3 +28,14 @@
  - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
  - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
  - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+ ## Strings
+ - [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+ - [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+ - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+ - [To Lower Case](https://leetcode.com/problems/to-lower-case/)
+ - [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+ - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
+ - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+ - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+ - [Goat Latin](https://leetcode.com/problems/goat-latin/)
