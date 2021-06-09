@@ -4,3 +4,9 @@
 - [02 Swap Consecutive Index Pairs](https://binarysearch.com/room/KMP-Knuth-Morris-Pratt-OJUJCBTLgp?questionsetIndex=1)
 - [03 Smallest Pair Sum with Distance Constraint](https://binarysearch.com/room/KMP-Knuth-Morris-Pratt-OJUJCBTLgp?questionsetIndex=2)
 - [04 Max Product of Three Numbers](https://binarysearch.com/room/KMP-Knuth-Morris-Pratt-OJUJCBTLgp?questionsetIndex=3)
+
+## Week 02
+- [01 Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers)
+- [02 Run-Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding)
+- [03 High Frequency](https://binarysearch.com/problems/High-Frequency)
+- [04 Number of Bits](https://binarysearch.com/problems/Number-of-Bits)
