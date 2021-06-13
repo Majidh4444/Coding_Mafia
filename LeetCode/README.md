@@ -52,3 +52,7 @@
  - [Binary Search](https://leetcode.com/problems/binary-search/)
  - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
  - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
+ ## Stack
+ - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+ - [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
