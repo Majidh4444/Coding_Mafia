@@ -56,3 +56,7 @@
  ## Stack
  - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
  - [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+ - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+ - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+ - [Baseball Game](https://leetcode.com/problems/baseball-game/)
+ - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
