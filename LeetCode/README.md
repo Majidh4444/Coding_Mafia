@@ -60,3 +60,7 @@
  - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
  - [Baseball Game](https://leetcode.com/problems/baseball-game/)
  - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+ - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+ - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+ - [Min Stack](https://leetcode.com/problems/min-stack/)
+ - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
