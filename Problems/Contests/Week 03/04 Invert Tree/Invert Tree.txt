@@ -1,0 +1,17 @@
+Invert Tree
+
+Given a binary tree root, invert it so that its left subtree and right subtree are 
+swapped and the children are recursively inverted.
+
+Constraints
+n ≤ 100,000 where n is the number of nodes in root
+
+Example 1
+Input
+Visualize
+root = [0, [2, null, null], [9, [7, null, null], [12, null, null]]]
+Output
+Visualize
+[0, [9, [12, null, null], [7, null, null]], [2, null, null]]
+
+Go through every node using DFS and swap their child
