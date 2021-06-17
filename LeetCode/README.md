@@ -2,9 +2,29 @@
 ## Links to Above Problems
 
 ### Arrays
-- 
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Remove Element](https://leetcode.com/problems/remove-element/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [Plus One](https://leetcode.com/problems/plus-one/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Majority Element](https://leetcode.com/problems/majority-element/)
+
 ### Maths
-- 
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+- [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Count Primes](https://leetcode.com/problems/count-primes/)
+- [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [Add Digits](https://leetcode.com/problems/add-digits/)
+
 ### Linked Lists
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -64,3 +84,9 @@
  - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
  - [Min Stack](https://leetcode.com/problems/min-stack/)
  - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+ ## Hash Table
+ - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+ - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+ - [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+ - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
