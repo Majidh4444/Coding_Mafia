@@ -90,3 +90,8 @@
  - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
  - [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
  - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+ - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+ - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+ - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+ - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+ - [Find the Difference](https://leetcode.com/problems/find-the-difference/)
