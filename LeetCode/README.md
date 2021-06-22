@@ -100,3 +100,11 @@
  - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
  - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
  - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+ - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+ ## Tree
+ - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+ - [Same Tree](https://leetcode.com/problems/same-tree/)
+ - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+ - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+ - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
