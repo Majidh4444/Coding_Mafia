@@ -7,3 +7,8 @@
 - [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1)
 - [Compute the integer absolute value (abs) without branching](https://www.geeksforgeeks.org/compute-the-integer-absolute-value-abs-without-branching/)
 - [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)
+- [Add two numbers without using arithmetic operators](https://www.geeksforgeeks.org/add-two-numbers-without-using-arithmetic-operators/)
+- [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)
+- [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)
+- [Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1#)
+- [Swap the nibble bit positions of a number](https://stackoverflow.com/questions/8484188/how-to-swap-nibbles-in-c)
