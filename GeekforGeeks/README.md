@@ -1,5 +1,4 @@
 ## Bit Manipulations
-
 - [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)
 - [Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1#)
 - [Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1)
@@ -11,3 +10,7 @@
 - [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)
 - [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)
 - [Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1#)
+
+## Dynamic Programming
+- [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#)
+- [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1#)
