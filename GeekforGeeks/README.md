@@ -1,3 +1,10 @@
+## Strings
+- [Print reverse of a string using recursion](https://www.geeksforgeeks.org/reverse-a-string-using-recursion/)
+- [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1#)
+- [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1#)
+- [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#)
+- [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1#)
+
 ## Bit Manipulations
 - [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)
 - [Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1#)
