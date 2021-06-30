@@ -4,6 +4,11 @@
 - [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1#)
 - [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#)
 - [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1#)
+- [Rank The Permutations](https://practice.geeksforgeeks.org/problems/rank-the-permutations2323/1#)
+- [Run Length Encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1)
+- [Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
+- [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1#)
+- [Length of the longest substring](https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1#)
 
 ## Bit Manipulations
 - [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)
