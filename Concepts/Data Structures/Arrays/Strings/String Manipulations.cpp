@@ -1,6 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+void toString(){
+	int i = 9;
+	string S = "I am among ";
+	S += to_string(i);
+	cout<<"After converting int to string to add to string: "<<S<<endl;
+}
+
 void Count(){
 	string S = "I am Fahadh";
 	cout<<"Occurrences of a is "<<count(S.begin(),S.end(),'a')<<" times"<<endl;
@@ -40,6 +47,8 @@ int main(){
 	subString();
 	cout<<"*********count function*********"<<endl;
 	Count();
+	cout<<"*********to_string function*********"<<endl;
+	toString();
 	return 0;
 }
 
