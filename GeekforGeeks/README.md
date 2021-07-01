@@ -9,6 +9,8 @@
 - [Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
 - [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1#)
 - [Length of the longest substring](https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1#)
+- [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1#)
+- [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
 
 ## Bit Manipulations
 - [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)
