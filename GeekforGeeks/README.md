@@ -30,3 +30,10 @@
 - [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1#)
 - [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1#)
 - [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1#)
+
+## Trees
+- [Size of Binary Tree](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1#)
+- [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1#)
+- [Maximum Width of Tree ](https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1#)
+- [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1#)
