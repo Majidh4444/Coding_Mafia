@@ -5,4 +5,7 @@
 - [Maximum Width of Tree ](https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1#)
 - [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1#)
 - [Populate Inorder Successor for all nodes](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1#)
-
+- [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1#)
+- [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1#)
+- [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1#)
+- [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#)
