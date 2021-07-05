@@ -9,3 +9,7 @@
 - [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1#)
 - [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1#)
 - [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#)
+- [Vertical sum](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
+- [Odd even level difference](https://practice.geeksforgeeks.org/problems/odd-even-level-difference/1#)
+- [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1#)
+- [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#)
