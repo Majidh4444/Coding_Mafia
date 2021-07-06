@@ -46,3 +46,7 @@
 - [Odd even level difference](https://practice.geeksforgeeks.org/problems/odd-even-level-difference/1#)
 - [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1#)
 - [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#)
+
+## Graphs
+- [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)
+- [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)
