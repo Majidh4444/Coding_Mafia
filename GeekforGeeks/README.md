@@ -50,3 +50,4 @@
 ## Graphs
 - [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)
 - [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)
+- [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#)
