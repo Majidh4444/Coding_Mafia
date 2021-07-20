@@ -12,6 +12,9 @@
 - [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1#)
 - [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
 
+## Linked Lists
+- [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)
+
 ## Bit Manipulations
 - [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#)
 - [Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1#)
