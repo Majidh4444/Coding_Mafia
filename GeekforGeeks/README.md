@@ -1,3 +1,10 @@
+## Arrays
+- [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+- [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
+- [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+- [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+- [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
+
 ## Strings
 - [Print reverse of a string using recursion](https://www.geeksforgeeks.org/reverse-a-string-using-recursion/)
 - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1#)
