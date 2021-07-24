@@ -7,3 +7,14 @@
 - [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1)
 - [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)
 - [Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
+- [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+- [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
+- [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+- [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Next Permutation](https://leetcode.com/problems/next-permutation/)
+
+## Matrix related imp questions
+- [Maximum and minimum of an array using minimum number of comparisons](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
