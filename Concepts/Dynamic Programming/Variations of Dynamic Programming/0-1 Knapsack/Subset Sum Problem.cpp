@@ -10,7 +10,7 @@ public:
             for(int s=0;s<=sum;s++){
                 if(s==0) DP[n][s] = 1;
                 else if(n==0) DP[n][s] = 0;
-                else if(s>=arr[n-1]) DP[n][s] = DP[n-1][s-arr[n-1]] + DP[n-1][s];
+                else if(s>=arr[n-1]) DP[n][s] = DP[n-1][s-arr[n-1]] || DP[n-1][s];
                 else DP[n][s] = DP[n-1][s];
             }
         }
