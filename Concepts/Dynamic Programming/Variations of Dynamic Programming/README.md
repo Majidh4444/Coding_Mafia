@@ -10,3 +10,13 @@
 
 ### Unbounded Knapsack
 - [Unbounded Knapsack Problem](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1#)
+- [Rod Cutting Problem](https://www.techiedelight.com/rod-cutting/)
+- [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
+- [Minimum Number of Coins Problem](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
+
+### Longest Common Subsequence
+- [Longest Common Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
+- [Longest Common Substring Problem](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
+- [Printing Longest Common Subsequence Problem](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)
+- [Shortest Common Supersequence Problem](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)
+- [Minimum Number Of Deletions And Insertions Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
