@@ -16,7 +16,13 @@
 
 ### Longest Common Subsequence
 - [Longest Common Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
-- [Longest Common Substring Problem](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
-- [Printing Longest Common Subsequence Problem](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)
+    - [Printing Longest Common Subsequence Problem](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)
 - [Shortest Common Supersequence Problem](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)
+    - [Printing Shortest Common Supersequence Problem](https://www.geeksforgeeks.org/print-shortest-common-supersequence/)
+- [Longest Common Substring Problem](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
 - [Minimum Number Of Deletions And Insertions Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
+- [Longest Repeating Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
+[ (Explanation Video)](https://www.youtube.com/watch?v=hbTaCmQGqLg&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=30)
+- [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
+    - [Minimum Deletions To Form A Palindrome Problem](https://practice.geeksforgeeks.org/problems/minimum-deletitions1648/1)
+    - [Minimum Insertions To Form A Palindrome Problem](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)
