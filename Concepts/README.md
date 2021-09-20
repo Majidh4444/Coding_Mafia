@@ -10,7 +10,12 @@
     - [Minimum Number of Coins Problem](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
 - [Rod Cutting Problem](https://www.techiedelight.com/rod-cutting/)
 - [Longest Common Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
+    - [Printing Longest Common Subsequence Problem](https://www.geeksforgeeks.org/printing-longest-common-subsequence/)
+    - [Printing Shortest Common Supersequence Problem](https://www.geeksforgeeks.org/print-shortest-common-supersequence/)
     - [Minimum Number Of Deletions And Insertions Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
+    - [Longest Repeating Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
+    - [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
+
 
 ## Hash Tables
 - [Largest Subarray With 0 Sum Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
