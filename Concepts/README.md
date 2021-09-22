@@ -1,4 +1,5 @@
 ## Concepts
+- [Sorting Algorithms](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Sorting%20Algorithms)
 - [Searching Algorithms](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Searching%20Algorithms)
     - [Binary Search](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Searching%20Algorithms/Binary%20Search)
 - [Dynamic Programming](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Dynamic%20Programming/Variations%20of%20Dynamic%20Programming)
