@@ -1,4 +1,6 @@
 ## Concepts
+- [Searching Algorithms](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Searching%20Algorithms)
+    - [Binary Search](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Searching%20Algorithms/Binary%20Search)
 - [Dynamic Programming](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Dynamic%20Programming/Variations%20of%20Dynamic%20Programming)
 - [Hash Tables](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Hash%20Table)
 
@@ -24,3 +26,7 @@
 - [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
 - [Find Missing Elements of a Range Problem](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
 - [Longest Consecutive Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
+
+## Searching Algorithms
+### Binary Search
+- [First and last occurrences of x](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
