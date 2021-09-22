@@ -30,4 +30,7 @@
 
 ## Searching Algorithms
 ### Binary Search
-- [First and last occurrences of x](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
+- [First and Last Occurrences of X Problem](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
+
+## Mathematics
+- [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
