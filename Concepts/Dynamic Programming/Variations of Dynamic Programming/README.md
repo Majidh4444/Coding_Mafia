@@ -26,3 +26,6 @@
 - [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
     - [Minimum Deletions To Form A Palindrome Problem](https://practice.geeksforgeeks.org/problems/minimum-deletitions1648/1)
     - [Minimum Insertions To Form A Palindrome Problem](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)
+
+### Matrix Chain Multiplication
+- [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
