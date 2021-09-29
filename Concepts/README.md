@@ -18,6 +18,7 @@
     - [Minimum Number Of Deletions And Insertions Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
     - [Longest Repeating Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
     - [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
+- [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
 
 
 ## Hash Tables
