@@ -19,6 +19,7 @@
     - [Longest Repeating Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
     - [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
 - [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
+    - [Palindromic Partitioning Problem](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
 
 
 ## Hash Tables
