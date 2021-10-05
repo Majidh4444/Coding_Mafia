@@ -1,8 +1,11 @@
 ## Concepts
 - [Sorting Algorithms](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Sorting%20Algorithms)
+    - [Quick Sort](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Sorting%20Algorithms/Quick%20Sort()/Quick%20Sort.cpp)
+    - [Merge Sort](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Sorting%20Algorithms/Merge%20Sort/Merge%20Sort.cpp)
 - [Searching Algorithms](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Searching%20Algorithms)
     - [Binary Search](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Searching%20Algorithms/Binary%20Search)
 - [Dynamic Programming](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Dynamic%20Programming/Variations%20of%20Dynamic%20Programming)
+- [Strings](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Arrays/Strings)
 - [Hash Tables](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Hash%20Table)
 
 
@@ -20,7 +23,10 @@
     - [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
 - [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
     - [Palindromic Partitioning Problem](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
+    - [Boolean Parenthesization Problem](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) ([Reference Explanation Video](https://www.youtube.com/watch?v=bzXM1Zond9U&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=39))
 
+## Strings
+- [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Data%20Structures/Arrays/Strings/String%20Manipulations.cpp)
 
 ## Hash Tables
 - [Largest Subarray With 0 Sum Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
