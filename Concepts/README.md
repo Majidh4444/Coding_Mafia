@@ -26,7 +26,8 @@
     - [Boolean Parenthesization Problem](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) ([Reference Explanation Video](https://www.youtube.com/watch?v=bzXM1Zond9U&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=39))
 
 ## Strings
-- [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Data%20Structures/Arrays/Strings/String%20Manipulations.cpp)
+- [Character Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/characterManipulations.cpp)
+- [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/stringManipulations.cpp)
 
 ## Hash Tables
 - [Largest Subarray With 0 Sum Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
