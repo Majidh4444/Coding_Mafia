@@ -31,11 +31,8 @@ int main(){
 	char ch = 'A';
 
     toCheckAlphaNumerical(ch);
-
     toCheckAlpha(ch);
-
     toCheckDigit(ch);
-
     changeToLower(ch);
 
 	return 0;
