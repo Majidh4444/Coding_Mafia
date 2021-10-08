@@ -12,7 +12,7 @@
 ## Dynamic Programming
 - [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
     - [Target Sum Problem](https://leetcode.com/problems/target-sum/)
-- [Unbounded Knapsack Problem](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1#)
+- [Unbounded Knapsack Problem](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
     - [Minimum Number of Coins Problem](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
 - [Rod Cutting Problem](https://www.techiedelight.com/rod-cutting/)
 - [Longest Common Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
@@ -28,6 +28,7 @@
 ## Strings
 - [Character Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/characterManipulations.cpp)
 - [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/stringManipulations.cpp)
+- [Check if strings are rotations of each other or not Problem](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/0/?company)
 
 ## Hash Tables
 - [Largest Subarray With 0 Sum Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
