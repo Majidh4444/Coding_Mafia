@@ -6,7 +6,7 @@
         - When weight to fill into bag is zero(w == 0) then return max value as 0
         - When number of remaining items to fill the bag is zero(n == 0) then return max value 0
     - ```cpp
-        else if(s>=arr[n-1]) DP[n][s] = DP[n-1][s-arr[n-1]] || DP[n-1][s];
+        else if(w>=wt[n-1]) DP[n][w] = max(DP[n-1][w], val[n-1]+DP[n-1][w-wt[n-1]]);
         ```
 - [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&page=4&query=category[]Dynamic%20Programmingpage4category[]Dynamic%20Programming)
     - Termination Condition(be careful with the order of checking termination condition):
