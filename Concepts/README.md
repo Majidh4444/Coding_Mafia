@@ -21,6 +21,7 @@
     - [Minimum Number Of Deletions And Insertions Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1)
     - [Longest Repeating Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
     - [Longest Palindromic Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1)
+    - [Edit Distance Problem*](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)
 - [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
     - [Palindromic Partitioning Problem](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
     - [Boolean Parenthesization Problem](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) ([Reference Explanation Video](https://www.youtube.com/watch?v=bzXM1Zond9U&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=39))
@@ -28,13 +29,14 @@
 ## Strings
 - [Character Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/characterManipulations.cpp)
 - [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/stringManipulations.cpp)
+- [Longest Palindrome in a String Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)
 - [Check if strings are rotations of each other or not Problem](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/0/?company)
 
 ## Hash Tables
-- [Largest Subarray With 0 Sum Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [Largest Subarray With 0 Sum Problem*](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
     - [Largest Subarray of 0's and 1's Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1)
-    - [Zero Sum Subarrays Problem](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
-- [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
+    - [Zero Sum Subarrays Problem*](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
+- [Array Pair Sum Divisibility Problem**](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
 - [Find Missing Elements of a Range Problem](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
 - [Longest Consecutive Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
 
