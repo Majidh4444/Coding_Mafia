@@ -1,7 +1,13 @@
 ## Hash Tables
-- [Largest Subarray With 0 Sum Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [Largest Subarray With 0 Sum Problem*](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
     - [Largest Subarray of 0's and 1's Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1)
-    - [Zero Sum Subarrays Problem](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
-- [Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
+    - [Zero Sum Subarrays Problem*](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
+        - [Subarrays with equal 1s and 0s Problem](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1#)
+- [Array Pair Sum Divisibility Problem**](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
+    - Using map(m) find how many times(frequency) some particular remainder comes when array elements divided with given k value.
+    - Then using for loop check the below conditions for the remainder of each element when divided with k ever time
+        - if remainder is 0 or k/2 then m[remainder]%2 should be zero because its pair should be same as element.
+        - if remainder is other than 0 or k/2 then k-remainder should be in m.
+        - if any of the above conditions are not satisfying then return flase.
 - [Find Missing Elements of a Range Problem](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
-- [Longest Consecutive Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
+- [Longest Consecutive Subsequence Problem*](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
