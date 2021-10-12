@@ -110,7 +110,15 @@
         - From Longest Palindromic Subsequence Problem we return (len(s) - DP[len(s)][len(s)])
     - [Minimum Insertions To Form A Palindrome Problem](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)
         - From Longest Palindromic Subsequence Problem we return (len(s) - DP[len(s)][len(s)])
-
+- [Edit Distance Problem*](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)
+    - Termination Condition:
+        - if i == 0 return j else j == 0 return i because as one string length becomes 0 then we have to insert remaining elements to make it to another string
+    - if both S[i-1] == T[j-1] then we dont need to do any thing just return DP[i-1][j-1]
+    - I other cases return 1+minimum value of below three cases
+        - DP[i][j-1](because we may have to insert character to first string and start comparing from next character.)
+        - DP[i-1][j](because we may have to delete character to and start comapring from next character.)
+        - DP[i-1][j-1](because we may have to replace the characters of both the strings and start comapring from other characters other than those.)
+    - return DP[len(S)][len(T)]
 ### Matrix Chain Multiplication
 - [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
 - [Palindromic Partitioning Problem](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
