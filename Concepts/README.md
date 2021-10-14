@@ -28,8 +28,11 @@
 
 ## Strings
 - [Character Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/characterManipulations.cpp)
+- [Word Break Problem**](https://practice.geeksforgeeks.org/problems/word-break1352/1#)[(reference)](https://www.youtube.com/watch?v=XtIGGdrF67E)
 - [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/stringManipulations.cpp)
 - [Longest Palindrome in a String Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)
+- [Next Permutation Problem](https://practice.geeksforgeeks.org/problems/next-permutation5226/1#)
+- [Count the Reversals Problem*](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#)
 - [Check if strings are rotations of each other or not Problem](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/0/?company)
 
 ## Hash Tables
