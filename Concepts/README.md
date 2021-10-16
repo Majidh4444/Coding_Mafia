@@ -25,6 +25,11 @@
 - [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
     - [Palindromic Partitioning Problem](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
     - [Boolean Parenthesization Problem](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) ([Reference Explanation Video](https://www.youtube.com/watch?v=bzXM1Zond9U&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=39))
+- [DP on Grid](#)
+    - [Count occurences of a given word in a 2-d array Problem***](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1/#)
+    - [Find the string in grid Problem**](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1#)
+- [DP on Strings](#)
+    - [Word Break Problem**](https://practice.geeksforgeeks.org/problems/word-break1352/1#)[(reference)](https://www.youtube.com/watch?v=XtIGGdrF67E)
 
 ## Strings
 - [Character Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/characterManipulations.cpp)
@@ -33,6 +38,9 @@
 - [Longest Palindrome in a String Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)
 - [Next Permutation Problem](https://practice.geeksforgeeks.org/problems/next-permutation5226/1#)
 - [Count the Reversals Problem*](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#)
+- [Longest Common Prefix Problem***](https://leetcode.com/problems/longest-common-prefix/)
+- [Roman Number to Integer Problem*](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1#)
+- [Min Number of Flips Problem*](https://practice.geeksforgeeks.org/problems/min-number-of-flips3210/1#)
 - [Check if strings are rotations of each other or not Problem](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/0/?company)
 
 ## Hash Tables
