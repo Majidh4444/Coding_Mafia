@@ -35,6 +35,7 @@
 - [Character Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/characterManipulations.cpp)
 - [Word Break Problem**](https://practice.geeksforgeeks.org/problems/word-break1352/1#)[(reference)](https://www.youtube.com/watch?v=XtIGGdrF67E)
 - [String Manipulations](https://github.com/Fahadh4444/Coding_Mafia/blob/main/Concepts/Basics/stringManipulations.cpp)
+- [Minimum Swaps for Bracket Balancing Problem***](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing2704/1)
 - [Longest Palindrome in a String Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)
 - [Next Permutation Problem](https://practice.geeksforgeeks.org/problems/next-permutation5226/1#)
 - [Count the Reversals Problem*](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#)
