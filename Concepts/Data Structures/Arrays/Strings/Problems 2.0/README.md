@@ -2,6 +2,7 @@
 - [Longest Palindrome in a String Problem**](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)
 - [Count occurences of a given word in a 2-d array Problem***](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1/#)
 - [Find the string in grid Problem**](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1#)
+- [Minimum Swaps for Bracket Balancing Problem***](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing2704/1)
 - [Word Break Problem**](https://practice.geeksforgeeks.org/problems/word-break1352/1#)[(reference)](https://www.youtube.com/watch?v=XtIGGdrF67E)
 - [Next Permutation Problem*](https://practice.geeksforgeeks.org/problems/next-permutation5226/1#)
 - [Subarrays with equal 1s and 0s Problem*](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1#)
