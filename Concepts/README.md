@@ -8,7 +8,6 @@
 - [Strings](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Arrays/Strings)
 - [Hash Tables](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Hash%20Table)
 
-
 ## Dynamic Programming
 - [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
     - [Target Sum Problem](https://leetcode.com/problems/target-sum/)
