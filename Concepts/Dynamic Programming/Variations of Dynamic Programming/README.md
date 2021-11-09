@@ -1,6 +1,6 @@
 ## Dynamic Programming
 
-### 0-1 Knapsack
+## 0-1 Knapsack
 - [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
     - Termination Condition:
         - When weight to fill into bag is zero(w == 0) then return max value as 0
@@ -39,7 +39,7 @@
 - [Target Sum Problem](https://leetcode.com/problems/target-sum/)
     - Same as Partition Equal Subset Sum Problem but here we have to make partition with difference between sets equal to target.
 
-### Unbounded Knapsack
+## Unbounded Knapsack
 - [Unbounded Knapsack Problem](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
     - Same as 0 - 1 Knapsack Problem but we have to keep on taking same value untill weight exceeds
     - ```cpp
@@ -65,7 +65,7 @@
         else if(j >= coins[i-1]) DP[i][j] = min(DP[i-1][j], 1+DP[i][j-coins[i-1]]);
         ```
 
-### Longest Common Subsequence
+## Longest Common Subsequence
 - [Longest Common Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
     - Termination Condition:
         - When length of string one or string two is zero then return 0 indicating cant find commong subsequence
@@ -119,7 +119,8 @@
         - DP[i-1][j](because we may have to delete character to and start comapring from next character.)
         - DP[i-1][j-1](because we may have to replace the characters of both the strings and start comapring from other characters other than those.)
     - return DP[len(S)][len(T)]
-### Matrix Chain Multiplication
+
+## Matrix Chain Multiplication
 - [Matrix Chain Multiplication Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)
 - [Palindromic Partitioning Problem](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
 - [Boolean Parenthesization Problem](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) ([Reference Video Explanation](https://www.youtube.com/watch?v=bzXM1Zond9U&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=39))
