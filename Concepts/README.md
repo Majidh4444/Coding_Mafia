@@ -57,5 +57,8 @@
 ### Binary Search
 - [First and Last Occurrences of X Problem](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
 
+## Linked Lists
+- [Reverse a Linked List Problem*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+
 ## Mathematics
 - [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
