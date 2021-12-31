@@ -5,3 +5,5 @@
 - [Add 1 to a number represented as linked list**](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)
 - [Add two numbers represented by linked lists**](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 - [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1#)
+- [Intersection Point in Y Shapped Linked Lists**](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)
+- [Merge Sort for Linked List*](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#)
