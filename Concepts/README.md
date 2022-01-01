@@ -64,7 +64,7 @@
 - [Add 1 to a number represented as linked list**](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)
 - [Add two numbers represented by linked lists**](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 - [Intersection Point in Y Shapped Linked Lists**](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)
-- [Merge Sort for Linked List*](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#)
+- [Middle of the Linked List*](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Mathematics
 - [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
