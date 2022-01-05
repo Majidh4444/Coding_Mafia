@@ -61,6 +61,7 @@
 - [Reverse a Linked List Problem*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 - [Middle of the Linked List*](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Check if Linked List is Palindrome***](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#)
+- [Deletion and Reverse in Linked List*](https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1/#)
 - [Detect Loop in linked list*](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 - [Remove loop in Linked List*](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1#)[(reference)](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)
 - [Add 1 to a number represented as linked list**](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)
