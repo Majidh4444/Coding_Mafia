@@ -1,5 +1,6 @@
 ## Linked Lists
 - [Reverse a Linked List Problem*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [Reverse a Doubly Linked List*](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1#)
 - [Middle of the Linked List*](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Check if Linked List is Palindrome***](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#)
 - [Detect Loop in linked list*](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
