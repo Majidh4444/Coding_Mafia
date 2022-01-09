@@ -58,7 +58,7 @@
 - [First and Last Occurrences of X Problem](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
 
 ## Linked Lists
-- [Reverse a Linked List Problem*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [Reverse a Linked List*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 - [Middle of the Linked List*](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Check if Linked List is Palindrome***](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#)
 - [Deletion and Reverse in Linked List*](https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1/#)
@@ -67,6 +67,7 @@
 - [Add 1 to a number represented as linked list**](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)
 - [Add two numbers represented by linked lists**](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 - [Intersection Point in Y Shapped Linked Lists**](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)
+- [Reverse a Doubly Linked List*](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1#)
 
 ## Mathematics
 - [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
