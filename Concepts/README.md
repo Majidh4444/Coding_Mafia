@@ -7,6 +7,11 @@
 - [Dynamic Programming](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Dynamic%20Programming/Variations%20of%20Dynamic%20Programming)
 - [Strings](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Arrays/Strings)
 - [Hash Tables](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Hash%20Table)
+- [Linked Lists](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Linked%20Lists)
+
+## Arrays
+- [Kth smallest element**](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)
+- [Maximum and minimum of an array using minimum number of comparisons*](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 
 ## Dynamic Programming
 - [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
