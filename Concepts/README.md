@@ -12,7 +12,10 @@
 ## Arrays
 - [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - [Minimize the Heights II***](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
+- [Minimum number of jumps***](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+- [Merge Intervals**](https://leetcode.com/problems/merge-intervals/)
 - [Kth smallest element**](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)
+- [Merge Without Extra Space*](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
 - [Maximum and minimum of an array using minimum number of comparisons*](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 
 ## Dynamic Programming
