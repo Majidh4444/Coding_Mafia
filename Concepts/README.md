@@ -15,6 +15,8 @@
 - [Minimum number of jumps***](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 - [Count Inversions***](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
 - [Next Permutation***](https://leetcode.com/problems/next-permutation/)
+- [Maximum Product Subarray***](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1#)
+- [Longest consecutive subsequence***](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
 - [Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Best Time to Buy and Sell Stock II**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [Count pairs with given sum**](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
