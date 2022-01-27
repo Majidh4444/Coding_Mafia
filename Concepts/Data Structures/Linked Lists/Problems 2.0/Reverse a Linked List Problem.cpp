@@ -21,8 +21,6 @@ struct Node* reverseList(struct Node *head){
         current->next = prev;
         prev = current;
         current = nxt;
-        if(!current) break;
-        nxt = nxt->next;
     }
     
     return prev;
