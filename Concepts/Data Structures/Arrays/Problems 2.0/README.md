@@ -11,6 +11,7 @@
 - [Best Time to Buy and Sell Stock II**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [Best Time to Buy and Sell Stock III***](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [Count pairs with given sum**](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
+- [Triplet Sum in Array**](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 - [Common elements**](https://practice.geeksforgeeks.org/problems/common-elements1132/1#)
 - [Merge Intervals**](https://leetcode.com/problems/merge-intervals/)
 - [Factorials of large numbers**](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)
