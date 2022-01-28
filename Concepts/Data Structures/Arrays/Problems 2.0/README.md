@@ -11,7 +11,7 @@
 - [Best Time to Buy and Sell Stock II**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [Best Time to Buy and Sell Stock III***](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [Trapping Rain Water***](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
-- [Minimum swaps and K together***](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
+- [Minimum swaps and K together***](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1) ([Reference](https://www.youtube.com/watch?v=PLu6uvp9l1k))
 - [Count pairs with given sum**](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
 - [Triplet Sum in Array**](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 - [Common elements**](https://practice.geeksforgeeks.org/problems/common-elements1132/1#)
