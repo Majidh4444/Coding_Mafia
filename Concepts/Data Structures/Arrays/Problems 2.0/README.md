@@ -20,6 +20,7 @@
 - [Factorials of large numbers**](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)
 - [Rearrange array in alternating positive & negative items with O(1) extra space*](https://www.geeksforgeeks.org/rearrange-array-in-alternating-positive-negative-items-with-o1-extra-space-set-2/)
 - [Maximum and minimum of an array using minimum number of comparisons*](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [Make Array Palindrome*](https://app.glider.ai/practice/problem/basic-programming/make-array-palindrome/problem)
 - [Merge Without Extra Space*](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
 - [Three way partitioning*](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)
 - [Sort an array of 0s, 1s and 2s*](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#)
