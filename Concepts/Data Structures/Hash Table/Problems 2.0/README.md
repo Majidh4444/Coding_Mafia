@@ -11,3 +11,4 @@
         - if any of the above conditions are not satisfying then return flase.
 - [Find Missing Elements of a Range Problem](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
 - [Longest Consecutive Subsequence Problem*](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
+- [Longest Sub-Array with Sum K**](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1#)
