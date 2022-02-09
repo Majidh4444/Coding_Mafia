@@ -77,10 +77,12 @@
 - [Array Pair Sum Divisibility Problem**](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
 - [Find Missing Elements of a Range Problem](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
 - [Longest Consecutive Subsequence Problem](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
+- [Longest Sub-Array with Sum K**](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1#)
 
 ## Searching Algorithms
 ### Binary Search
-- [First and Last Occurrences of X Problem](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
+- [Search in Rotated Sorted Array***](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [First and last occurrences of x**](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
 
 ## Linked Lists
 - [Reverse a Linked List*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
