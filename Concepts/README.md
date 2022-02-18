@@ -85,6 +85,8 @@
 ### Binary Search
 - [Search in Rotated Sorted Array***](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [First and last occurrences of x**](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
+### Boyer–Moore Majority Vote Algorithm
+- [Majority Element***](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)[ (refernce)](https://www.youtube.com/watch?v=AoX3BPWNnoE)
 
 ## Linked Lists
 - [Reverse a Linked List*](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
@@ -101,3 +103,7 @@
 
 ## Mathematics
 - [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
+
+## Important Algorithms
+### Boyer–Moore Majority Vote Algorithm(Searching Algorithm)
+- [Majority Element***](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)[ (refernce)](https://www.youtube.com/watch?v=AoX3BPWNnoE)
