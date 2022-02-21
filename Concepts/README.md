@@ -101,6 +101,10 @@
 - [Intersection Point in Y Shapped Linked Lists**](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)
 - [Reverse a Doubly Linked List*](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1#)
 
+## Bit Manipulations
+- [Non Repeating Numbers***](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)[ (reference)](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
+- [Count total set bits***](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)[ (reference)](https://www.youtube.com/watch?v=g6OxU-hRGtY)
+
 ## Mathematics
 - [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
 
