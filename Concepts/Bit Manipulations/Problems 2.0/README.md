@@ -1,3 +1,4 @@
 ## Bit Manipulations
-- [Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)[ (reference)](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
+- [Non Repeating Numbers***](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)[ (reference)](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
 - [Count total set bits***](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)[ (reference)](https://www.youtube.com/watch?v=g6OxU-hRGtY)
+- [Find position of set bit*](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)
