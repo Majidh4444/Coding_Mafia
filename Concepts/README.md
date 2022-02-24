@@ -8,6 +8,8 @@
 - [Strings](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Arrays/Strings)
 - [Hash Tables](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Hash%20Table)
 - [Linked Lists](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Linked%20Lists)
+- [Bit Manipulations](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Bit%20Manipulations)
+- [Graphs](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Graphs)
 
 ## Arrays
 - [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
