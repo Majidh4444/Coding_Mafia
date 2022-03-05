@@ -11,6 +11,13 @@
 - [Bit Manipulations](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Bit%20Manipulations)
 - [Graphs](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Concepts/Data%20Structures/Graphs)
 
+## Mathematics
+- [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
+
+## Important Algorithms
+### Boyer–Moore Majority Vote Algorithm(Searching Algorithm)
+- [Majority Element***](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)[ (refernce)](https://www.youtube.com/watch?v=AoX3BPWNnoE)
+
 ## Arrays
 - [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - [Minimize the Heights II***](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
@@ -106,10 +113,3 @@
 ## Bit Manipulations
 - [Non Repeating Numbers***](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)[ (reference)](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
 - [Count total set bits***](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)[ (reference)](https://www.youtube.com/watch?v=g6OxU-hRGtY)
-
-## Mathematics
-- [Topics](https://github.com/Fahadh4444/Coding_Mafia/tree/main/Maths)
-
-## Important Algorithms
-### Boyer–Moore Majority Vote Algorithm(Searching Algorithm)
-- [Majority Element***](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)[ (refernce)](https://www.youtube.com/watch?v=AoX3BPWNnoE)
