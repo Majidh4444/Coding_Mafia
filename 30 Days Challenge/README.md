@@ -1,5 +1,5 @@
 # 30 Days Challenge
-### Day 01 - Arrays
+### Day 01 - Arrays => 05 March 2022
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
     ```
     4*8
@@ -59,7 +59,7 @@
     5 is max profit
     ```
 
-### Day 01 - Arrays Part - II
+### Day 02 - Arrays Part - II => 06 March 2022
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
     ```
     5  1  9  11
@@ -79,4 +79,42 @@
     16  7  10 11
 
     180, 270 360 also check in this way
+    ```
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+    ```
+    Three Cases
+    One:
+    ---------
+    ----------
+    Two
+    ---------
+    ---
+    Three
+    ---------
+            ---------
+    ```
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+    ```
+    A = 4 5 6 0 0 0
+    B = 1 2 3
+    Start filling in A from back side by comparing A and B from m-1 and n-1
+    ```
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+    ```
+    Change sign of number in nums[i] index
+    If we get nums[i] < 0 then return nums[i]
+    ```
+- [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
+    ```
+    sum = A - B
+    squareSum = A^2 - B^2 = (A - B)(A + B)
+    squareSum / sum = A + B
+    Now we have A + B and A - B
+    ```
+- [Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615?leftPanelTab=0)
+    ```
+    Use merge sort to find inversions
+    if L[i] > R[j]
+    inv += nL-i
+    Be sure that you returned invs everywhere
     ```
