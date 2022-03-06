@@ -18,6 +18,8 @@
 ### Boyer–Moore Majority Vote Algorithm(Searching Algorithm)
 - [Majority Element***](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1#)[ (refernce)](https://www.youtube.com/watch?v=AoX3BPWNnoE)
 
+### [30 Days Challenge](https://github.com/Fahadh4444/Coding_Mafia/tree/main/30%20Days%20Challenge)
+
 ## Arrays
 - [Kadane's Algorithm**](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - [Minimize the Heights II***](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
