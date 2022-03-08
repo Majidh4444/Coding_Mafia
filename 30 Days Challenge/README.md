@@ -32,7 +32,7 @@
 - [Maximum Subarray/Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)
     ```
     -2,1,-3,4,-1,2,1,-5,4
-    Check sum+nums[i] < nums[i] then there is a lot dude to previous sum
+    Check sum+nums[i] < nums[i] then there is a loss dude to previous sum
     So consider now sum as nums[i]
     everytime check sum with maxSum
     ```
@@ -85,13 +85,13 @@
     Three Cases
     One:
     ---------
-    ----------
+       ----------
     Two
     ---------
-    ---
+       ---
     Three
     ---------
-            ---------
+               ---------
     ```
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
     ```
@@ -117,4 +117,32 @@
     if L[i] > R[j]
     inv += nL-i
     Be sure that you returned invs everywhere
+    ```
+
+### D
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+    ```
+    Find out which row by checking both ends
+    then use binnary search to find exact position in row
+    ```
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+    ```
+    Check the bits which have 1 and increment x *= x
+    then when bit is 1 ans = ans*x or ans = ans/x
+    ```
+- [Majority Element](https://leetcode.com/problems/majority-element/)
+    ```
+    Use Boyer–Moore Majority Vote Algorithm(Searching Algorithm)
+    ```
+- [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+    ```
+    Same as before case but here use two variables and also first equate variable1 = nums[0] and variable2 = INT_MIN
+    ```
+- [USe Dynamic Programming](https://leetcode.com/problems/unique-paths/)
+    ```
+    USe Dynamic Programming
+    ```
+- [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+    ```
+    Same as majority elements, but here use extra array for squares in merge function to check pairs
     ```
