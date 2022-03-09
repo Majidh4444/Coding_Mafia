@@ -119,7 +119,7 @@
     Be sure that you returned invs everywhere
     ```
 
-### D
+### Day 03 - Arrays Part - III => 07 March 2022
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
     ```
     Find out which row by checking both ends
@@ -145,4 +145,54 @@
 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
     ```
     Same as majority elements, but here use extra array for squares in merge function to check pairs
+    ```
+
+### Day 04 - Arrays Part - IV => 08 March 2022
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+    ```
+    Use unordered map to store the nums[i]
+    then using that find target-nums[i]
+    ```
+- [4Sum](https://leetcode.com/problems/4sum/)
+    ```
+    Sort the array
+    use two nested for loops to select first two numbers
+    then using two pointer in while loop find other two numbers
+    ```
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+    ```
+    use sets to store unique values
+    Use for loop and check for each number whether its previous number present in loop or not
+    If not present then use while loop and check the number of consecutive number present in set from this number
+    At every time of above case store the max value of lenght
+    ```
+- [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+    ```
+    use for loop if sum is zero then its the max
+    if same sum comes again then length = i-m[sum]
+    At every iteration find maxLength and return it
+    ```
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+    ```
+    SLIDING WINDOW  - TIME COMPLEXITY O(2n)
+    SPACE COMPLEXITY O(m)   //size of array
+    Take array to store the occurences of all the characters
+    Iterate over the string till the right pointer reaches the end of the string
+    Increment the count of the character present in the right pointer every time
+    If the occurence store[r] become more than 1 means the char is repeated
+    Reduce the occurence of temp as it might be present ahead also in the string
+    Contraction of the present window till the occurence of the 't' char becomes 1
+    As the index starts from 0 , ans will be (right pointer-left pointer + 1)
+    Find max at every iteration
+    ```
+- [Subarray with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/)
+    ```
+    ________________
+           z
+    _______ ________
+       x       y
+    x = y XOR z
+    y = x XOR y
+    Use the above concept
+    here z = p[i], y = B, x = value which may present n hash table
     ```
