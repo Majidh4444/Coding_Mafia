@@ -196,3 +196,55 @@
     Use the above concept
     here z = p[i], y = B, x = value which may present n hash table
     ```
+### Day 05 - Linked List => 09 March 2022
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+    ```
+    Follow the order
+    while(curr)
+    nxt = curr->next
+    curr->next = prev
+    prev = curr
+    curr = nxt
+    return prev
+    ```
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+    ```
+    Use i=1 variable
+    mid = head
+    when i is divisible by 2 increment mid
+    ```
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+    ```
+    l1 = 1 2 3 4
+    l2 = 5 6 7 8
+    Use recursion
+    if l1 == NULL return l2
+    if l2 == NULL return l1
+    l1>l2 => l2 = rec(l1,l2->next)
+    else l1 = rec(l1->next, l2)
+    return less val pointer
+    ```
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+    ```
+    while(n--) increment temp
+    if(!temp) return head->next
+    while(temp->next) increment both
+    node->next = node->next->next
+    return head
+    ```
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+    ```
+    take sum = 0 and remainder = 0
+    every iteration make sum = 0
+    if l1 exits add to sum same with l2 also and also increment l1 and l2
+
+    if sum>9 
+            remainder = sum/10
+            sum = sum%10
+    else remainder = 0
+    ```
+-   [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+    ```
+    node->val = node->next->val
+    node->next = node->next->next
+    ```
