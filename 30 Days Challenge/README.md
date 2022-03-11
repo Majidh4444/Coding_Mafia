@@ -248,3 +248,47 @@
     node->val = node->next->val
     node->next = node->next->next
     ```
+
+### Day 05 - Linked List Part - II => 10 March 2022
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+    ```
+    If reached the end then equate the pointer again to opposite pointer head;
+    run while loop till a!=b
+    if equal return a
+    ```
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+    ```
+    Use fast and slow pointers and return when fast->nextt == NULL or when any of the pointer reached the end after breaking from loop
+    ```
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+    ```
+    Use Recursion first check the list with k values if no k nodes present return head
+    if present reverse the k nodes and call head->next = rec(curr,k)
+    return prev
+    ```
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+    ```
+    1 2 3 4 5 4 3 2 1
+    Using fast and slow pointer find middle node
+    above case middle is 5
+    use prev pointer to track of slow's previous pointer
+    make prev->next = NULL here 4->next = NULL
+    from 5 reverse the list
+    1 2 3 4 1 2 3 4 5
+    Check node values for head and slow one by one if not equal return 0
+    if equal return 1
+    ```
+- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+    ```
+    Detect cycle and break from loop
+    if(slow == NULL or fast == NULL) return NULL
+    make fast = head
+    while(slow != fast) increment pointer
+    return slow
+    ```
+- [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)
+    ```
+    Here use recursion
+    go to last sub link
+    and merge root and root->next sub links as same as merging two lists and return one big list
+    ```
