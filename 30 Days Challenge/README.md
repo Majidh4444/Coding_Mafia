@@ -249,7 +249,7 @@
     node->next = node->next->next
     ```
 
-### Day 05 - Linked List Part - II => 10 March 2022
+### Day 06 - Linked List Part - II => 10 March 2022
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
     ```
     If reached the end then equate the pointer again to opposite pointer head;
@@ -291,4 +291,53 @@
     Here use recursion
     go to last sub link
     and merge root and root->next sub links as same as merging two lists and return one big list
+    ```
+
+### Day 07 - Linked List and Arrays => 11 March 2022
+- [Rotate List](https://leetcode.com/problems/rotate-list/)
+    ```
+    Count the number of elements(n) and at the end point last elemnt next to head
+    make k = k%n then n = n-k
+    using while(n--) then head = temp->next and temp->next = null
+    return head
+    ```
+- [3Sum](https://leetcode.com/problems/3sum/)
+    ```
+    Sort the array
+    -1 -1 -1 -1 0 2
+    for loop
+    if(i>0 && nums[i-1] == nums[i]) continue
+    int j=i+1 and z = n-1
+    while(j<z) 
+    check there sum == 0
+    push
+        while(j<z && nums[j]==nums[j+1]) j++
+    while(j<z && nums[j]==nums[j+1]) z--
+    j++;z--
+    sum < 0 j++
+    sum > 0 z--
+    return v
+    ```
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+    ```
+    use two pointers
+    find first block on both sides
+    while(l<=r)
+        if lblock <= rblock
+            if(nums[l]>lblock) lblock = nums[l]
+            else water += lblock-nums[l]
+            l++
+        else
+            if(nums[r]>rblock) rblock = nums[r]
+            else water += rblock-nums[r]	
+    return water
+    ```
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+    ```
+    while(i<n)
+    use two pointer i j to swap only unique values at the starting
+    ```
+- [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+    ```
+    use while loop to find continous 1s and store max of that to return
     ```
