@@ -341,3 +341,53 @@
     ```
     use while loop to find continous 1s and store max of that to return
     ```
+### Day 08 - Greedy Algorithm => 12 March 2022
+- [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+    ```
+    store in vestor as {start, end}
+    sort vector wrt end
+    use for loop
+    meet denotes which meeet is going on
+    if(v[i][0] > v[meet][1])
+            meet = i
+        count++
+    return count
+    ```
+- [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
+    ```
+    sort both arrays
+    while i<n
+    if arr[i] > dep(j) j++;i++;
+    else i++;
+    ```
+- [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
+    ```
+    sort wrt profit
+    declare array for time n
+    using for loop
+        check for each job if there is a free space in time array on or before deadline
+        if yes count++ and break
+    return count
+    ```
+- [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+    ```
+    sort with respect to value/weight
+    while(W && i<n)
+        if W>=arr[i].weight
+            add arr[i].value to total
+            remove arr[i].weight from W and i++
+        else
+            add W*value of each weight
+            return total
+    ```
+- [Number of Coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1/#)
+    ```
+    Use DP
+    first row to INT_MAX
+    first column to 0
+    use for for loop
+    if(coins[i-1] <= j) t[i][j] = min(1 + t[i][j-coins[i-1]], t[i-1][j])
+    else t[i][j] = t[i-1][j]
+    return t[n][amount] if not equal to INT_MAX
+    else return -1
+    ```
