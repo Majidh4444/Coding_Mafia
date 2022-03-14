@@ -391,3 +391,43 @@
     return t[n][amount] if not equal to INT_MAX
     else return -1
     ```
+### Day 09 - Recursion => 13 March 2022
+- [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1#)
+    ```
+    Use recursion
+    add sum to vector at each call
+    ```
+- [Subsets II](https://leetcode.com/problems/subsets-ii/)
+    ```
+    Use recursion
+    Make call without considering and after considering element
+    ```
+- [Combination Sum](https://leetcode.com/problems/combination-sum/)
+    ```
+    2 3 6 7
+    from 0 using faor loop
+        call recursion considering for 2, 3, 6, 7 to sum
+    at every iteration push c[j] to vector after recursion pop back
+    ```
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+    ```
+    2 3 6 7
+    from 0 using faor loop
+        call recursion considering for 2, 3, 6, 7 to sum
+        skip considering repeating elements after usig them atleast once 
+    at every iteration push c[j] to vector after recursion pop back
+    ```
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+    ```
+    for(int j=i;j<s.size();j++){
+        if(isPalindrome(s.substr(i,j-i+1))){
+            sub.push_back(s.substr(i,j-i+1));
+            rec(ans,sub,j+1,s);
+            sub.pop_back();
+        }
+    }
+    ```
+- [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+    ```
+    Check the solution and understand
+    ```
