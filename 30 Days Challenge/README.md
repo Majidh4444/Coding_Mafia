@@ -431,3 +431,69 @@
     ```
     Check the solution and understand
     ```
+
+### Day 10 - Recursion and Backtracking => 14 March 2022
+- [Permutations](https://leetcode.com/problems/permutations/)
+    ```
+    1 2 3
+    For i = 0 => (1)-2 3
+    (rec) i = 0   (1 2)-3
+            (rec) i = 0  (1 2 3)
+            i = 1   (1 3)-2
+            (rec) i = 0  (1 3 2)
+        i = 1    (2)-1 3
+    (rec) i = 0   (2 1)-3
+            (rec) i = 0  (2 1 3)
+            i = 1   (2 3)-1
+            (rec) i = 0   (2 3 1)
+        i = 2    (3)-1 2
+    (rec) i = 0    (3 1)-2
+            (rec) i = 0   (3 1 2)
+            i = 1    (3 2)-1
+            (rec) i = 0   (3 2 1)   
+    Make recursion as above
+    for(int i=0;i<nums.size();i++){
+        vector<int> arr = nums;
+        arr.erase(arr.begin()+i);
+        s.push_back(nums[i]);
+        rec(arr,v,s);
+        s.pop_back();
+    } 
+    ```
+- [N-Queens](https://leetcode.com/problems/n-queens/)
+    ```
+    place a queen at the position
+    make recursion 
+    if something went wrong return back
+        erase the queen position where u placed previously
+    else continue
+    ```
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+    ```
+    place a number at the position
+    make recursion
+    if col >= 9 make rec with row = row+1 and col = 0
+    using for loop check 1 to 9 numbers
+    if something went wrong return back
+        erase the number position where u placed previously
+    else continue
+    ```
+- [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#)
+    ```
+    Use recursion
+    if node == n return true
+    transverse for every color recursively
+    before inserting color check if possible using for loop(k!=node && graph[node][k]==1 && color[k]==col)
+    if something happens in that recursion stack back track and remove inserted color and try new color
+    ```
+- [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+    ```
+    Use recursion in evry possible way to get complete way
+    ```
+- [Word Break II](https://leetcode.com/problems/word-break-ii/)
+    ```
+    Use unordered_set to store dictionary words
+    if index reached end store required string and return
+    else use for loop to check sub strings from ind to end and if present in set
+        and that to required string and make recursion from next index and continue this
+    ```
