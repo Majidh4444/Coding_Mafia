@@ -497,3 +497,37 @@
     else use for loop to check sub strings from ind to end and if present in set
         and that to required string and make recursion from next index and continue this
     ```
+
+### Day 11 - Binary Search => 15 March 2022
+- [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1#)
+    ```
+    Between 1 to m using binary search find mid^n = m condition to return
+    ```
+- [Matrix Median](https://www.interviewbit.com/problems/matrix-median/)
+    ```
+    Find max, min
+    using binary search while (min<max)
+    find how many elements greater tha mid
+    if less than total elements mim = mid+1
+    else max = mid
+    return min
+    ```
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+    ```
+    use binary search
+    after finding mid...check l-mid is even or not
+    according to it check the conditions nums[m-1] == nums[m] and nums[m] == nums[m+1]
+    ```
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+    ```
+    Use binary search and check below conditions
+    if(nums[mid] == target){
+        return mid;
+    }else if(nums[l] <= nums[mid]){
+        if(target >=  nums[l] && target < nums[mid]) r = mid-1;
+        else l = mid+1;
+    }else{
+        if(target > nums[mid] && target <= nums[r]) l = mid+1;
+        else r = mid-1;
+    }
+    ```
