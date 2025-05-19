@@ -1,2 +1,4 @@
 450dsa
 *.exe
+.vscode
+*.dSYM
